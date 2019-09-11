@@ -1,0 +1,8 @@
+.App-contacts {
+    background-color: rgb(102, 139, 139);
+    border-style: inset;
+    border-width: 5px;
+    border-color: black;
+    padding: 10px;
+    color: rgb(200, 213, 213);
+  }

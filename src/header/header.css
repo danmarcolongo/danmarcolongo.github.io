@@ -1,0 +1,43 @@
+.App-header {
+    background-color: rgb(102, 139, 139);
+    border-style: inset;
+    border-width: 5px;
+    border-top-width: 10px;
+    border-color: black;
+    color: rgb(200, 213, 213);
+    padding: 2px;
+    padding-bottom: 5px;
+  }
+  
+  .sticky {
+    position: sticky;
+    top: 0;
+  }
+  
+  #home:target {
+    padding-top: 160px;
+  }
+
+  #about:target {
+    padding-top: 160px;
+  }
+
+  #contacts:target {
+    padding-top: 160px;
+  }
+
+  #sources:target {
+    padding-top: 160px;
+  }
+
+  .navi {
+    display: inline;
+  }
+  
+  .navi li {
+    display: block;
+    float: left;
+    padding: 2px;
+    border-inline-end-width: 2px;
+    margin: 2px;
+  }
